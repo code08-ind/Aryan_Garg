@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h5 {
+    font-size: 2.2em;
+    display: flex;
+}
+
+h5 > span {
+    position: relative;
+    display: inline-block;
+    color: #2cbce9;
+    height: 1.3em;
+    margin-left: 10px;
+    vertical-align: bottom;
+    overflow: hidden;
+}
+
+h5 > span span {
+    display: block;
+    animation: animationWords 5s infinite ease;
+}
+
+@keyframes animationWords{
+    0%{
+        transform: translateY(0%);
+    }
+    25%{
+        transform: translateY(-100%);
+    }
+    50%{
+        transform: translateY(-200%);
+    }
+    75%{
+        transform: translateY(-300%);
+    }
+    100%{
+        transform: translateY(-400%);
+    }
+}
