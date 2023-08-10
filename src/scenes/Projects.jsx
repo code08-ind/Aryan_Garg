@@ -308,12 +308,12 @@ const Projects = () => {
                         <div className="w-1/6 font-medium text-blue text-xl h-12 flex justify-end items-center">{""}</div>
                         <div className="w-1/6 font-medium text-blue text-xl h-12 flex justify-end items-center">{""}</div>
                         <div className="w-1/6 font-medium transition duration-500 text-gray-400 hover:text-blue text-4xl h-12 flex justify-end items-center">
-                            <a href="https://github.com/code08-ind/NITJ_Jobify" target="blank">
+                            <a href="https://github.com/code08-ind/Aryan_Garg" target="blank">
                                 <FiGithub />
                             </a>
                         </div>
                         <div className="w-1/6 font-medium transition duration-500 text-gray-400 hover:text-blue text-4xl h-12 flex justify-end items-center">
-                            <a href="https://nitj-jobify.netlify.app/" target="blank">
+                            <a href="https://aryangarg8.netlify.app/" target="blank">
                                 <BiLinkExternal />
                             </a>
                         </div>

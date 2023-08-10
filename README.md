@@ -16,4 +16,4 @@
 
 ## Website Link
 
-Website is Hosted on the link with Netlify: [Web App Link](https://aryan-garg.netlify.app/)
+Website is Hosted on the link with Netlify: [Web App Link](https://aryangarg8.netlify.app/)
