@@ -298,6 +298,8 @@ const Projects = () => {
                         Aryan Garg is a personal portfolio website that is built with modern web technologies like React, Tailwind CSS and Framer Motion. It is responsive in design.
                     </p>
                     <div className="flex mt-2">
+                        <div className="w-1/5 font-medium text-blue text-xl h-12 flex justify-end items-center font-montserrat">{""}</div>
+                        <div className="w-1/5 font-medium text-blue text-xl h-12 flex justify-end items-center font-montserrat">{""}</div>
                         <div className="w-1/5 font-medium text-blue text-xl h-12 flex justify-end items-center font-montserrat">React</div>
                         <div className="w-1/5 font-medium text-blue text-xl h-12 flex justify-end items-center font-montserrat">Tailwind</div>
                         <div className="w-1/5 font-medium text-blue text-xl h-12 flex justify-end items-center font-montserrat">JavaScript</div>
